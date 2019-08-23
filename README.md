@@ -2,9 +2,9 @@
 Machine learning Projects using Python
 
 Starting with Iris dataset - 
-using Gaussian Naive Bayes and Logistic Regression -Iris_GNB_LR
-using KnearesrNeighbours- Iris_KNN
+#using Gaussian Naive Bayes and Logistic Regression -Iris_GNB_LR
+#using KnearesrNeighbours- Iris_KNN
 
 Bike Rental dataset - to predict the total no.of bikes rented on environmental and seasonal settings.
-using Linear Regression
-using Lasso and LassoCV
+#using Linear Regression
+#using Lasso and LassoCV
