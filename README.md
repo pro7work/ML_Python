@@ -8,3 +8,6 @@ Starting with Iris dataset -
 Bike Rental dataset - to predict the total no.of bikes rented on environmental and seasonal settings.
 #using Linear Regression
 #using Lasso and LassoCV
+
+Image segmentation using OpenCV
+#Detecting diseased part of rice leaf 
