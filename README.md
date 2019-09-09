@@ -11,3 +11,6 @@ Bike Rental dataset - to predict the total no.of bikes rented on environmental a
 
 Image segmentation using OpenCV
 #Detecting diseased part of rice leaf 
+
+ForestFires dataset- 
+#Using regression to predict the burned area of forest
